@@ -1,6 +1,6 @@
 # @altevo/okay
 
-A TypeScript library that elegantly handles operation outcomes through a powerful `Result` type, representing either success (`Ok`) or failure (`Err`). 
+A lightweight TypeScript library that elegantly handles operation outcomes through a powerful `Result` type, representing either success (`Ok`) or failure (`Err`). 
 
 Inspired by Rust and Kotlin, it brings compile-time error checking and type safety to error handling in TypeScript.
 
